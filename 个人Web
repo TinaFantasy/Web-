@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet"href="style.css">
+  
+    <meta charset="utf-8">
+	<meta name='description' content='这是一个垃圾网站。'>  <! -- SEO,搜索引擎优化，有特定的作用 -->
+    <title>垃圾网站，会展开视觉污染和头脑攻击</title>  <! -- 搜索和保存标签用
+	// -->
+	</head>    <!--保存元数据-->
+	
+  <body>
+    <span style="font-size: 32px; margin: 21px 0;">Is this a top level heading?</span>  <!-- 自定义的标题 -->
+    <p>I am <em>glad</em> you weren't <em>late</em>.</p>  <!-- <em></em>是一种斜体强调元素,<strong></strong>是一种黑体-->
+    <h1>这是一个标题。</h1>
+    <script src=""></script>   <! -- 交互的实现放在body下 -->
+    <p>pay attention!!</p>
+    <p>这是垃圾网站，展开视觉污染和头脑攻击</p>
+    <p>That is shit。人类的幻梦</p>
+	<u1>                           <!-- unordered list ,<ol>-orderlist.可用<li>进行包裹 -->
+	挖掘机<br />    
+	扬起的烟头<br />
+	蓝色下午三点钟<br />
+	燃烧<br />
+	高架路<br />
+	奶粉罐<br />
+	一只生锈的铁乾压在<br />
+	几本书上<br />
+	南京炫赫门<br />
+	想起一支熊公仔自动铅笔，及其包含的<br />
+	少量感动<br />
+	失控的<br />
+	</u1>
+	<p>Visit my <a href="projects/contact.html">project homepage</a>.</p>   <!-- URL-uniform resource locator,定位HTML. -->
+	<p>I'm creating a link to
+
+    <img src="Tina.jpg">
+</p>
+  </body>
+</html>
